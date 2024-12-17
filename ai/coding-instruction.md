@@ -7,7 +7,8 @@ Every time you choose to apply a rule(s), explicitly state the rule(s) in the ou
 - [more description]
 - [more description]
 - [more description]
-Example:
+
+### Example:
 Project Context: This is a dev tool built for evaluating open source projects allowing people to better understand the maintainability, activity and longevity of a given project to allow devs to better decide whether they should include or use the given open source repositories after the analysis
 
 ## Code Style and Structure
