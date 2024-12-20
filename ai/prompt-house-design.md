@@ -37,3 +37,44 @@ Prompt:
 10. Roof Design (Eco-Friendly and Functional)
 Prompt:
 "Design an eco-friendly roof with solar panels, a green roof section for planting, and a rooftop garden with seating for outdoor relaxation. Include a rainwater collection system and consider using energy-efficient materials like reflective roofing. Add a small pergola or shade structure to create a comfortable lounging area with views of the surrounding landscape."
+
+# Exterior:
+1. Modern Minimalist Exterior Design
+Prompt:
+"Design the exterior of a modern minimalist home with clean lines, large glass windows, and a neutral color palette of whites and grays. Use a flat roof and incorporate a sleek, geometric design with a focus on simplicity. Include a minimalist front door with a subtle overhang, and a low-maintenance, lush front garden with carefully selected plants and grasses."
+
+2. Rustic Cottage Exterior Design
+Prompt:
+"Create an exterior design for a charming rustic cottage with natural stone walls, a steep gabled roof, and exposed wooden beams. Use warm, earthy tones like browns, greens, and muted reds. Add a welcoming front porch with a swing or rocking chairs, and surround the house with a wildflower garden, wooden fencing, and a stone pathway leading to the entrance."
+
+3. Coastal Beach House Design
+Prompt:
+"Design a coastal beach house exterior with a light and airy color scheme of whites, pale blues, and sandy tones. Use wide open decks with railings that give panoramic views of the ocean, large windows to let in natural light, and a sloping roof that reflects the surrounding beach landscape. Include landscaping with beach grasses, palm trees, and a sand-colored stone driveway."
+
+4. Traditional Colonial Exterior Design
+Prompt:
+"Design the exterior of a classic Colonial home with red brick or white-painted wooden siding, symmetrical windows, and shutters. Incorporate a grand entrance with a portico or columned porch, and a slate or gabled roof. Use manicured hedges, flowerbeds, and a long gravel driveway to enhance the traditional, stately appearance of the house."
+
+5. Contemporary Urban Townhouse Design
+Prompt:
+"Design a contemporary urban townhouse exterior with a modern, sharp look using concrete, metal accents, and large glass windows. Include a front-facing balcony or terrace with sleek railings and a minimalist door. Opt for neutral tones like gray, black, and white, and consider adding small green touches like potted plants or a vertical garden for a touch of nature."
+
+6. Mediterranean Villa Exterior Design
+Prompt:
+"Create a Mediterranean villa exterior with stucco walls, terracotta roof tiles, and arched windows. Use warm, earthy tones like ochre, beige, and rust, with wrought-iron railings and shutters. Design a central courtyard with a fountain or small pool, and add lush landscaping with olive trees, lavender, and bougainvillea climbing along the walls."
+
+7. Eco-Friendly Green Home Design
+Prompt:
+"Design an eco-friendly home exterior with sustainable materials like reclaimed wood, stone, and solar panels. Incorporate a green roof with vegetation, rainwater collection systems, and large windows for natural light and passive heating. Use earth tones in the exterior finish, and integrate energy-efficient lighting and outdoor spaces that include a vegetable garden and outdoor composting area."
+
+8. Art Deco Inspired Exterior Design
+Prompt:
+"Design the exterior of a house inspired by Art Deco style, with bold geometric patterns, smooth stucco or concrete finishes, and ornamental metal details. Use a color palette of metallic gold, black, white, and silver, and include decorative elements such as stylized doorways, sleek angular windows, and vertical lines. Add a grand entrance with polished marble or terrazzo flooring."
+
+9. Mountain Lodge Exterior Design
+Prompt:
+"Create the exterior of a cozy mountain lodge with wooden beams, stone accents, and a steep, gabled roof. Use natural, earthy colors like dark browns, grays, and forest greens to blend with the surrounding forest landscape. Design large windows to showcase scenic mountain views and add a wide front porch with rustic wooden furniture and a stone fireplace for warmth."
+
+10. Victorian Gothic Exterior Design
+Prompt:
+"Design the exterior of a Victorian Gothic-style home with pointed arches, intricate woodwork, and a steep, high-pitched roof. Use dark, rich colors like deep purples, blacks, and forest greens, and incorporate ornate detailing such as carved wood trim, a wrap-around porch, and large, arched windows with stained glass. Surround the home with ivy-covered brick walls and a wrought-iron gate."
