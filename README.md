@@ -16,3 +16,6 @@ Includes in this template:
 ![noimage.png)
 <hr>
 
+Test Fetch.
+It's updated from remote
+
